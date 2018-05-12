@@ -20,6 +20,8 @@ creator:
 description: This collection of literature attempts to compile many of the classic,
   timeless works that have stood the test of time and offer them at a reduced, affordable
   price, in an attractive volume so that everyone can enjoy them.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23161#Sodom-and-Gomorrah-Texas
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2007-10-24'
 gutenberg_type: Text
